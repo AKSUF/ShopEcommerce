@@ -1,0 +1,6 @@
+Announce:
+This code defines a React component called "Announce" that renders a div with a purple background and white text in the center. The text reads "Hurry up 50% off Sale!" and is displayed using flexbox to horizontally and vertically center the text within the div.
+
+This component can be used within a larger React application to display a prominent announcement about a sale or promotion, for example.
+
+Counter:

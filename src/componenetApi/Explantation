@@ -1,0 +1,32 @@
+ApiCategries:
+This code exports an array named ApiCategories that contains three objects. Each object represents a category of products in an e-commerce site and contains two properties: title and src.
+
+The title property is a string that represents the name of the category, and the src property is a string that contains the URL of the image associated with the category.
+
+This array can be used to display the categories and their corresponding images in the UI of an e-commerce application.
+
+Apislides:
+This code exports a constant named ApiSlides which is an array of objects. Each object represents a slide in a slider component and contains the following properties:
+
+src: A string representing the URL of the image to be displayed in the slide.
+active: A boolean indicating whether the slide is currently active or not.
+content: An object representing the content to be displayed on the slide. It contains the following properties:
+h2: A string representing the title of the slide.
+p: A string representing the description of the slide.
+background: A string representing the background color of the slide.
+The slider can be created by iterating over this array and rendering each slide as per the properties mentioned above.
+
+ApiTopproducts:
+This is an array of objects called ApiTopPropduct, which contains information about top products in an e-commerce store. Each object has a src property that represents the URL of the product image. There are a total of 8 products in this array.
+
+This array can be used to display the images of top products on a web page or a mobile app.
+Slider css:
+This is CSS code that defines an animation called "fade". The animation gradually increases the opacity of an element from 0.4 to 1 over a duration of 2 seconds.
+
+The animation is defined using two sets of keyframes, one for the Webkit browser engine and one for other browser engines. The '@-webkit-keyframes' specifies the keyframe rules for Webkit browsers, and '@keyframes' specifies the keyframe rules for all other browsers.
+
+The 'from' keyframe sets the initial state of the animation, which is an opacity of 0.4. The 'to' keyframe sets the final state of the animation, which is an opacity of 1.
+
+The animation is then applied to an HTML element with the class "wrapper".
+
+
