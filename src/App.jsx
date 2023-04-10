@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-    <Route path = '/Blog-App.github.io' element = { <Home/> } /> 
+    <Route path = '/ShopEcommerce' element = { <Home/> } /> 
     <Route path = '/' element = { <Home/> } /> 
     <Route path = 'cart' element = { <Cart/> } /> 
     <Route path = '/categoryPage' element = { <CategoryPage/> } /> 
